@@ -1,0 +1,17 @@
+# Large dataset files — too big for GitHub
+MachineLearningCVE/
+UNSW CSV/
+Merged_Output/
+IDS_Output/
+
+# Trained model pkl files — too large for GitHub
+Ensemble_Output/*.pkl
+
+# Temp files
+check_file.py
+run_notebook.py
+run_notebook_log.txt
+tempCodeRunnerFile.ipynb
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
